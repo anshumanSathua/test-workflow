@@ -24,7 +24,7 @@ jobs:
 
       - name: Fetch and update videos
         run: |
-          node .github/scripts/updateVideos.js
+          node .github/scripts/updateVideos.mjs
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
