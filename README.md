@@ -37,8 +37,8 @@ Check out my latest videos:
 
 <!-- latest-videos -->
 * [TypeScript Course || 6 Type Narrowing Techniques #typescript](https://www.youtube.com/watch?v=dHmM4hmbzzQ)
-* [Next.js Authentication With Next-Auth V5 || Google &amp; GitHub](https://www.youtube.com/watch?v=O8Ae6MC5bf4)
 * [TypeScript Course || Type Aliases &amp; Interfaces || Part - 2](https://www.youtube.com/watch?v=VE5SOoP2Y74)
 * [Handling New Line Characters With CSS #shorts](https://www.youtube.com/watch?v=bNMgXdkv3qk)
 * [Next.js 14 Link vs router.push() || What To Use? #nextjs](https://www.youtube.com/watch?v=t3FoW3veg_o)
+* [Next.js 14 Updating Server Component Data  #nextjs](https://www.youtube.com/watch?v=qX4hsitjqvE)
 <!-- latest-videos-end -->
